@@ -1,5 +1,8 @@
 ### La vida es lo que ves
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pycolmenero&layout=compact&theme=dark)
+
+
 <!--
 **PyColmenero/PyColmenero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
